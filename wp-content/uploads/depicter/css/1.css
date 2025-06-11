@@ -123,6 +123,16 @@
 	line-height:120%;
 	background-color:transparent;
 }
+.depicter-revert .depicter-1-element-18{
+	opacity:1;
+	background-color:rgba(0, 0, 0, 0.35);
+}
+.depicter-revert .depicter-1-element-17{
+	filter:none;
+}
+.depicter-revert .depicter-1-element-17-frame{
+	mix-blend-mode:normal;
+}
 .depicter-revert .depicter-1-section-12 .depicter-section-background{
 	background-color:#FFF;
 }
